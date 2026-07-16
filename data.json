@@ -40,6 +40,14 @@
     "date": "Tue, 05 May 2026 00:00:00 GMT"
   },
   {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "全新相册Kaleido现已上线！来看看我的日常吧~",
+    "link": "https://upxuu.com/posts/kaleido/",
+    "date": "Thu, 16 Jul 2026 18:13:19 GMT"
+  },
+  {
     "blog": "琳·心",
     "blogUrl": "https://blog.karina.xin",
     "avatar": "",
@@ -110,14 +118,6 @@
     "title": "[说说] 电影感排版效果",
     "link": "https://inaline.net/archives/50/",
     "date": "Sat, 20 Jun 2026 00:05:00 +0800"
-  },
-  {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
-    "title": "我把静态博客部署在服务器上了(:!",
-    "link": "https://upxuu.com/posts/no-cf-vercel/",
-    "date": "Sat, 11 Jul 2026 16:56:34 GMT"
   },
   {
     "blog": "Hyde's blog",
