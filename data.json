@@ -96,14 +96,6 @@
     "date": "Sun, 15 Feb 2026 00:00:00 GMT"
   },
   {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
-    "title": "在受够了nginx的繁琐配置和奇奇怪怪的问题后,我换了caddy",
-    "link": "https://upxuu.com/posts/nginx-to-caddy/",
-    "date": "Sun, 12 Jul 2026 21:33:53 GMT"
-  },
-  {
     "blog": "孟轩科技’s blog",
     "blogUrl": "https://blog.mxw2024.top",
     "avatar": "",
@@ -139,7 +131,7 @@
     "blog": "Upxuu",
     "blogUrl": "https://upxuu.com",
     "avatar": "",
-    "title": "焕然一新！暑假博客优化的总结！",
+    "title": "焕然一新！暑假博客优化的总结",
     "link": "https://upxuu.com/posts/26summer/",
     "date": "Mon, 13 Jul 2026 21:58:05 GMT"
   },
@@ -150,6 +142,14 @@
     "title": "快要中考了，分享一个初中几何解题暴力方法",
     "link": "https://inaline.net/archives/48/",
     "date": "Fri, 19 Jun 2026 13:43:00 +0800"
+  },
+  {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "第一次以亲历者的身份参加中考！",
+    "link": "https://upxuu.com/posts/my-first-important-exam/",
+    "date": "Fri, 17 Jul 2026 09:38:51 GMT"
   },
   {
     "blog": "inaline的小站",
