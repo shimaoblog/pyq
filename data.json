@@ -1,27 +1,11 @@
 [
   {
-    "blog": "Hyde's blog",
-    "blogUrl": "https://seasir.top",
-    "avatar": "",
-    "title": "隐藏封面图",
-    "link": "https://seasir.top/posts/HideCoverImage/",
-    "date": "Wed, 03 Jun 2026 00:00:00 GMT"
-  },
-  {
     "blog": "琳·心",
     "blogUrl": "https://blog.karina.xin",
     "avatar": "",
     "title": "微信“我的”页入口升级",
     "link": "https://0413one.github.io/blog/post/wei-xin-%E2%80%9C-wo-de-%E2%80%9D-ye-ru-kou-sheng-ji.html",
     "date": "Tue, 28 Apr 2026 22:27:14 +0000"
-  },
-  {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
-    "title": "「说说」umami莫名其妙寄了(悲",
-    "link": "https://upxuu.com/talk/2026-07-22-umami莫名其妙寄了悲/",
-    "date": "Tue, 21 Jul 2026 20:29:01 GMT"
   },
   {
     "blog": "琳·心",
@@ -62,6 +46,14 @@
     "title": "Document Builder 文档生成器 alpha 版本功能演示",
     "link": "https://inaline.net/archives/52/",
     "date": "Thu, 02 Jul 2026 12:04:00 +0800"
+  },
+  {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "「说说」666 我微信有点炸了",
+    "link": "https://upxuu.com/talk/666-我微信有点炸了/",
+    "date": "Sun, 26 Jul 2026 14:10:00 GMT"
   },
   {
     "blog": "琳·心",
@@ -126,6 +118,14 @@
     "title": "待办",
     "link": "https://seasir.top/posts/todo/",
     "date": "Sat, 09 May 2026 00:00:00 GMT"
+  },
+  {
+    "blog": "Hyde's blog",
+    "blogUrl": "https://seasir.top",
+    "avatar": "",
+    "title": "AI 摘要实现",
+    "link": "https://seasir.top/posts/ai-summary-tutorial/",
+    "date": "Mon, 27 Jul 2026 00:00:00 GMT"
   },
   {
     "blog": "孟轩科技’s blog",
