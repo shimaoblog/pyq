@@ -56,6 +56,14 @@
     "date": "Sun, 26 Apr 2026 03:33:11 +0000"
   },
   {
+    "blog": "Hyde's blog",
+    "blogUrl": "https://seasir.top",
+    "avatar": "",
+    "title": "集成朋友圈与笔记本功能",
+    "link": "https://seasir.top/posts/moments/",
+    "date": "Sun, 21 Jun 2026 00:00:00 GMT"
+  },
+  {
     "blog": "孟轩科技’s blog",
     "blogUrl": "https://blog.mxw2024.top",
     "avatar": "",
@@ -94,6 +102,30 @@
     "title": "[说说] 电影感排版效果",
     "link": "https://inaline.net/archives/50/",
     "date": "Sat, 20 Jun 2026 00:05:00 +0800"
+  },
+  {
+    "blog": "Hyde's blog",
+    "blogUrl": "https://seasir.top",
+    "avatar": "",
+    "title": "待办",
+    "link": "https://seasir.top/posts/todo/",
+    "date": "Sat, 09 May 2026 00:00:00 GMT"
+  },
+  {
+    "blog": "Hyde's blog",
+    "blogUrl": "https://seasir.top",
+    "avatar": "",
+    "title": "AI 摘要实现",
+    "link": "https://seasir.top/posts/ai-summary-tutorial/",
+    "date": "Mon, 27 Jul 2026 00:00:00 GMT"
+  },
+  {
+    "blog": "Hyde's blog",
+    "blogUrl": "https://seasir.top",
+    "avatar": "",
+    "title": "自助友链申请",
+    "link": "https://seasir.top/posts/friends-apply/",
+    "date": "Mon, 27 Jul 2026 00:00:00 GMT"
   },
   {
     "blog": "孟轩科技’s blog",
