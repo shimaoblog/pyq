@@ -40,14 +40,6 @@
     "date": "Sun, 26 Jul 2026 14:10:00 GMT"
   },
   {
-    "blog": "Hyde's blog",
-    "blogUrl": "https://seasir.top",
-    "avatar": "",
-    "title": "集成朋友圈与笔记本功能",
-    "link": "https://seasir.top/posts/moments/",
-    "date": "Sun, 21 Jun 2026 00:00:00 GMT"
-  },
-  {
     "blog": "孟轩科技’s blog",
     "blogUrl": "https://blog.mxw2024.top",
     "avatar": "",
@@ -70,6 +62,14 @@
     "title": "讲个笑话，飞舞博主nginx日志飙了20GB",
     "link": "https://upxuu.com/posts/ohhhh-my-disk/",
     "date": "Sun, 02 Aug 2026 02:47:54 GMT"
+  },
+  {
+    "blog": "Hyde's blog",
+    "blogUrl": "https://seasir.top",
+    "avatar": "",
+    "title": "测试文章标题",
+    "link": "https://seasir.top/posts/ces/",
+    "date": "Sun, 02 Aug 2026 00:00:00 GMT"
   },
   {
     "blog": "Upxuu",
