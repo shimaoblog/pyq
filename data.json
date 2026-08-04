@@ -1,5 +1,13 @@
 [
   {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "「说说」蹬上 opencode go 了",
+    "link": "https://upxuu.com/talk/2026-08-04-opencode-go/",
+    "date": "Tue, 04 Aug 2026 07:44:00 GMT"
+  },
+  {
     "blog": "琳·心",
     "blogUrl": "https://blog.karina.xin",
     "avatar": "",
@@ -32,14 +40,6 @@
     "date": "Thu, 02 Jul 2026 12:04:00 +0800"
   },
   {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
-    "title": "「说说」666 我微信有点炸了",
-    "link": "https://upxuu.com/talk/666-我微信有点炸了/",
-    "date": "Sun, 26 Jul 2026 14:10:00 GMT"
-  },
-  {
     "blog": "孟轩科技’s blog",
     "blogUrl": "https://blog.mxw2024.top",
     "avatar": "",
@@ -67,8 +67,8 @@
     "blog": "Hyde's blog",
     "blogUrl": "https://seasir.top",
     "avatar": "",
-    "title": "测试文章标题",
-    "link": "https://seasir.top/posts/ces/",
+    "title": "PNPM 11 适配 CNB 构建安全兼容方案",
+    "link": "https://seasir.top/posts/pnpm-workspace/",
     "date": "Sun, 02 Aug 2026 00:00:00 GMT"
   },
   {
