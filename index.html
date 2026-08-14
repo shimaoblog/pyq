@@ -91,7 +91,7 @@ pre {
         <h1>友链动态</h1>
     </header>
 
-    <div id="loading" class="load‑tip">正在加载 feed.json 数据…</div>
+    <div id="loading" class="load‑tip">正在加载 data.json 数据…</div>
     <div id="feedWrap" style="display:none;">
         <div id="itemList"></div>
     </div>
@@ -108,7 +108,7 @@ async function loadFeed() {
     const feedWrap = document.getElementById('feedWrap');
     try {
         const res = await fetch('./data.json');
-        if(!res.ok) throw new Error('无法读取 feed.json');
+        if(!res.ok) throw new Error('无法读取 data.json');
         const list = await res.json();
         loadingEl.style.display = 'none';
         feedWrap.style.display = 'block';
@@ -117,6 +117,33 @@ async function loadFeed() {
         list.forEach(entry => {
             const div = document.createElement('div');
             div.className = 'item';
+            let dateStr = '';
+            if(entry.date){
+                const d = new Date(entry.date);
+                if(!isNaN(d.getTime())){
+                    dateStr = d.toLocaleString('zh‑CN');
+                }else{
+                    dateStr = entry.date;
+                }
+            }
+            div.innerHTML = `
+                <div class="blog‑name"><a href="${entry.blogUrl}" target="_blank">${entry.blog}</a></div>
+                <div class="post‑title"><a href="${entry.link}" target="_blank">${entry.title}</a></div>
+                <div class="post‑date">${dateStr}</div>
+            `;
+            listDom.appendChild(div);
+        });
+
+        document.getElementById('rawJson').innerText = JSON.stringify(list,null,2);
+    } catch(err) {
+        loadingEl.innerText = '加载失败：'+err.message+'\n请确认 data.json 和本页面在同一目录';
+        console.error(err);
+    }
+}
+loadFeed();
+</script>
+</body>
+</html>
             let dateStr = '';
             if(entry.date){
                 const d = new Date(entry.date);
