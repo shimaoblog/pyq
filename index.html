@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Feed 订阅源预览</title>
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: #ffffff;
+    color: #000000;
+    font-family: system-ui, "霞鹜文楷", sans-serif;
+    line-height: 1.7;
+    padding: 32px 20px;
+}
+.container {
+    max-width: 820px;
+    margin: 0 auto;
+}
+header {
+    border-bottom: 1px solid #000;
+    padding-bottom: 16px;
+    margin-bottom: 40px;
+}
+header h1 {
+    font-size: 2rem;
+    font-weight: normal;
+}
+.feed-meta p {
+    margin-top: 8px;
+    font-size: 1rem;
+}
+.feed-meta a {
+    color: #000;
+    text-decoration: underline;
+    display: inline-block;
+    margin-top: 12px;
+}
+.feed-item {
+    padding: 24px 0;
+    border-bottom: 1px solid #ddd;
+}
+.feed-item:last-child {
+    border-bottom: none;
+}
+.feed-item h3 a {
+    font-size: 1.3rem;
+    color: #000;
+    text-decoration: none;
+}
+.feed-item h3 a:hover {
+    text-decoration: underline;
+}
+.feed-date {
+    font-size: 0.9rem;
+    color: #555;
+    margin: 6px 0 12px;
+}
+.feed-desc {
+    color: #333;
+}
+.raw-box {
+    margin-top: 60px;
+    border-top:1px solid #000;
+    padding-top:24px;
+}
+.raw-box h3 {
+    margin-bottom:12px;
+    font-weight:normal;
+}
+pre {
+    background:#f7f7f7;
+    padding:16px;
+    overflow-x:auto;
+    font-size:0.85rem;
+}
+.load-tip {
+    text-align:center;
+    padding:60px 0;
+    color:#444;
+}
+</style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>Feed.json 订阅预览</h1>
+        <div class="feed-meta">
+            <h2 id="feedTitle"></h2>
+            <p id="feedDesc"></p>
+            <a id="feedHomeLink" target="_blank">访问站点首页</a>
+        </div>
+    </header>
+
+    <div id="loading" class="load-tip">正在加载 feed 数据…</div>
+    <div id="feedWrap" style="display:none;">
+        <div id="itemList"></div>
+    </div>
+
+    <div class="raw-box">
+        <h3>原始JSON</h3>
+        <pre id="rawJson"></pre>
+    </div>
+</div>
+
+<script>
+async function loadFeed() {
+    const loadingEl = document.getElementById('loading');
+    const feedWrap = document.getElementById('feedWrap');
+    try {
+        const res = await fetch('./data.json');
+        if(!res.ok) throw new Error('无法读取 data.json');
+        const feed = await res.json();
+        loadingEl.style.display = 'none';
+        feedWrap.style.display = 'block';
+
+        document.getElementById('feedTitle').innerText = feed.title || '无标题';
+        document.getElementById('feedDesc').innerText = feed.description || '';
+        document.getElementById('feedHomeLink').href = feed.home_page_url || '/';
+
+        const listDom = document.getElementById('itemList');
+        feed.items.forEach(post => {
+            const div = document.createElement('div');
+            div.className = 'feed-item';
+            const dateStr = post.date_published ? new Date(post.date_published).toLocaleString('zh-CN') : '';
+            div.innerHTML = `
+                <h3><a href="${post.url}" target="_blank">${post.title || '无标题'}</a></h3>
+                <div class="feed-date">${dateStr}</div>
+                <div class="feed-desc">${post.content_text ? post.content_text.slice(0,260)+'…' : '暂无摘要'}</div>
+            `;
+            listDom.appendChild(div);
+        });
+
+        document.getElementById('rawJson').innerText = JSON.stringify(feed,null,2);
+    } catch(err) {
+        loadingEl.innerText = '加载失败：'+err.message+'\n请确认data.json和此页面放在同一目录';
+        console.error(err);
+    }
+}
+loadFeed();
+</script>
+</body>
+</html>
+
