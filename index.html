@@ -107,7 +107,7 @@ async function loadFeed() {
     const loadingEl = document.getElementById('loading');
     const feedWrap = document.getElementById('feedWrap');
     try {
-        const res = await fetch('./feed.json');
+        const res = await fetch('./data.json');
         if(!res.ok) throw new Error('无法读取 feed.json');
         const list = await res.json();
         loadingEl.style.display = 'none';
