@@ -35,22 +35,6 @@
     "blog": "Upxuu",
     "blogUrl": "https://upxuu.com",
     "avatar": "",
-    "title": "开学了，博客又要何去何从",
-    "link": "https://upxuu.com/posts/bloglog260826/",
-    "date": "Wed, 26 Aug 2026 06:07:37 GMT"
-  },
-  {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
-    "title": "一文讲透英伟达免费模型的白嫖技巧,零成本蹬顶级模型之nvida 的minimax m3",
-    "link": "https://upxuu.com/posts/mimimax-m3-pn-nvida-nim/",
-    "date": "Tue, 25 Aug 2026 01:14:15 GMT"
-  },
-  {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
     "title": "免费的...DeepSeek v4 pro 0813?!!",
     "link": "https://upxuu.com/posts/free-deepseek-pro-on-nvidia/",
     "date": "Thu, 27 Aug 2026 00:38:50 GMT"
@@ -86,6 +70,22 @@
     "title": "PNPM 11 适配 CNB 构建安全兼容方案",
     "link": "https://seasir.top/posts/pnpm-workspace/",
     "date": "Sun, 02 Aug 2026 00:00:00 GMT"
+  },
+  {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "美团送了2000w token?! Longcat 2.0体验",
+    "link": "https://upxuu.com/posts/longcat-2/",
+    "date": "Sat, 29 Aug 2026 04:17:13 GMT"
+  },
+  {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "我删掉了手机里的一张照片",
+    "link": "https://upxuu.com/posts/deleted-a-photo/",
+    "date": "Sat, 29 Aug 2026 02:30:00 GMT"
   },
   {
     "blog": "孟轩科技’s blog",
@@ -139,7 +139,7 @@
     "blog": "Upxuu",
     "blogUrl": "https://upxuu.com",
     "avatar": "",
-    "title": "何以容易？",
+    "title": "何以容易？——手写一篇中考应试文",
     "link": "https://upxuu.com/posts/how-easy/",
     "date": "Fri, 28 Aug 2026 10:07:02 GMT"
   },
