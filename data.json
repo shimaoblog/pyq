@@ -32,14 +32,6 @@
     "date": "Wed, 26 Aug 2026 08:45:53 +0000"
   },
   {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
-    "title": "免费的...DeepSeek v4 pro 0813?!!",
-    "link": "https://upxuu.com/posts/free-deepseek-pro-on-nvidia/",
-    "date": "Thu, 27 Aug 2026 00:38:50 GMT"
-  },
-  {
     "blog": "inaline的小站",
     "blogUrl": "https://inaline.net",
     "avatar": "",
@@ -70,6 +62,14 @@
     "title": "PNPM 11 适配 CNB 构建安全兼容方案",
     "link": "https://seasir.top/posts/pnpm-workspace/",
     "date": "Sun, 02 Aug 2026 00:00:00 GMT"
+  },
+  {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "为什么，我们希望被看见——浅谈upxuu的建站心得",
+    "link": "https://upxuu.com/posts/why-blog/",
+    "date": "Sat, 29 Aug 2026 06:15:33 GMT"
   },
   {
     "blog": "Upxuu",
