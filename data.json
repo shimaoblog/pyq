@@ -1,5 +1,13 @@
 [
   {
+    "blog": "Hyde's blog",
+    "blogUrl": "https://seasir.top",
+    "avatar": "",
+    "title": "NodeWarden",
+    "link": "https://seasir.top/posts/nodewarden/",
+    "date": "Thu, 17 Sep 2026 00:00:00 GMT"
+  },
+  {
     "blog": "inaline的小站",
     "blogUrl": "https://inaline.net",
     "avatar": "",
@@ -77,14 +85,6 @@
     "avatar": "",
     "title": "AI 摘要实现",
     "link": "https://seasir.top/posts/ai-summary-tutorial/",
-    "date": "Mon, 27 Jul 2026 00:00:00 GMT"
-  },
-  {
-    "blog": "Hyde's blog",
-    "blogUrl": "https://seasir.top",
-    "avatar": "",
-    "title": "自助友链申请",
-    "link": "https://seasir.top/posts/friends-apply/",
     "date": "Mon, 27 Jul 2026 00:00:00 GMT"
   },
   {
