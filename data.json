@@ -1,5 +1,13 @@
 [
   {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "「说说」undefined",
+    "link": "https://upxuu.com/talk/20260909004617/",
+    "date": "Tue, 08 Sep 2026 16:46:17 GMT"
+  },
+  {
     "blog": "Hyde's blog",
     "blogUrl": "https://seasir.top",
     "avatar": "",
@@ -35,14 +43,6 @@
     "blog": "Upxuu",
     "blogUrl": "https://upxuu.com",
     "avatar": "",
-    "title": "关于博客的未来",
-    "link": "https://upxuu.com/posts/关于博客的未来/",
-    "date": "Sun, 13 Sep 2026 13:47:45 GMT"
-  },
-  {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
     "title": "「说说」做，正确的事",
     "link": "https://upxuu.com/talk/20260913214633/",
     "date": "Sun, 13 Sep 2026 13:46:33 GMT"
@@ -70,6 +70,14 @@
     "title": "ZCode 静默上传事件技术复盘：一次仓库快照如何带走完整 Git 历史",
     "link": "https://upxuu.com/posts/zcode-silent-git-upload-forensics/",
     "date": "Sat, 19 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "「说说」workbuddy有免费DeepSeek flash v4.1了？！！",
+    "link": "https://upxuu.com/talk/2026-09-12-workbuddy有免费deepseek-fla-h-v4/",
+    "date": "Sat, 12 Sep 2026 03:46:25 GMT"
   },
   {
     "blog": "Hyde's blog",
@@ -102,14 +110,6 @@
     "title": "友链监控报告",
     "link": "https://blog.mxw2024.top/posts/friend-link-monitor/",
     "date": "Mon, 23 Mar 2026 00:00:00 GMT"
-  },
-  {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
-    "title": "废物的我写的垃圾小作文",
-    "link": "https://upxuu.com/posts/废物的我写的垃圾小作文/",
-    "date": "Mon, 14 Sep 2026 14:47:45 GMT"
   },
   {
     "blog": "inaline的小站",
