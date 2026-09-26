@@ -1,13 +1,5 @@
 [
   {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
-    "title": "「说说」undefined",
-    "link": "https://upxuu.com/talk/20260909004617/",
-    "date": "Tue, 08 Sep 2026 16:46:17 GMT"
-  },
-  {
     "blog": "Hyde's blog",
     "blogUrl": "https://seasir.top",
     "avatar": "",
@@ -54,6 +46,14 @@
     "title": "PNPM 11 适配 CNB 构建安全兼容方案",
     "link": "https://seasir.top/posts/pnpm-workspace/",
     "date": "Sun, 02 Aug 2026 00:00:00 GMT"
+  },
+  {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "永远是多远",
+    "link": "https://upxuu.com/posts/whatsforever/",
+    "date": "Sat, 26 Sep 2026 03:08:09 GMT"
   },
   {
     "blog": "孟轩科技’s blog",
