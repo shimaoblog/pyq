@@ -19,6 +19,14 @@
     "blog": "Upxuu",
     "blogUrl": "https://upxuu.com",
     "avatar": "",
+    "title": "中国新药你99%不知道的那些事",
+    "link": "https://upxuu.com/posts/china-medication/",
+    "date": "Thu, 01 Oct 2026 02:49:07 GMT"
+  },
+  {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
     "title": "因为我余额要过期了免费给大家用longcat!",
     "link": "https://upxuu.com/posts/free-longcat/",
     "date": "Sun, 27 Sep 2026 00:23:53 GMT"
@@ -70,14 +78,6 @@
     "title": "网站更换域名公告",
     "link": "https://blog.mxw2024.top/posts/website-domain-change/",
     "date": "Sat, 21 Mar 2026 00:00:00 GMT"
-  },
-  {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
-    "title": "ZCode 静默上传事件技术复盘：一次仓库快照如何带走完整 Git 历史",
-    "link": "https://upxuu.com/posts/zcode-silent-git-upload-forensics/",
-    "date": "Sat, 19 Sep 2026 07:00:00 GMT"
   },
   {
     "blog": "Hyde's blog",
