@@ -19,14 +19,6 @@
     "blog": "Upxuu",
     "blogUrl": "https://upxuu.com",
     "avatar": "",
-    "title": "中国新药你99%不知道的那些事",
-    "link": "https://upxuu.com/posts/china-medication/",
-    "date": "Thu, 01 Oct 2026 02:49:07 GMT"
-  },
-  {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
     "title": "因为我余额要过期了免费给大家用longcat!",
     "link": "https://upxuu.com/posts/free-longcat/",
     "date": "Sun, 27 Sep 2026 00:23:53 GMT"
@@ -62,6 +54,14 @@
     "title": "PNPM 11 适配 CNB 构建安全兼容方案",
     "link": "https://seasir.top/posts/pnpm-workspace/",
     "date": "Sun, 02 Aug 2026 00:00:00 GMT"
+  },
+  {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "今夜月明人尽望",
+    "link": "https://upxuu.com/posts/2026moon/",
+    "date": "Sat, 26 Sep 2026 14:18:05 GMT"
   },
   {
     "blog": "孟轩科技’s blog",
