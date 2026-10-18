@@ -24,6 +24,14 @@
     "date": "Thu, 02 Jul 2026 12:04:00 +0800"
   },
   {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "「说说」Google的反重力有大病",
+    "link": "https://upxuu.com/talk/2026-10-18-google的反重力有大病/",
+    "date": "Sun, 18 Oct 2026 10:59:27 GMT"
+  },
+  {
     "blog": "孟轩科技’s blog",
     "blogUrl": "https://blog.mxw2024.top",
     "avatar": "",
@@ -46,14 +54,6 @@
     "title": "WorkBuddy AI 国际版 API 逆向全解析：把免费的 DeepSeek V4.1 Flash 变成自己的 OpenAI 接口",
     "link": "https://upxuu.com/posts/workbuddy-api-reverse/",
     "date": "Sun, 11 Oct 2026 09:40:00 GMT"
-  },
-  {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
-    "title": "如何爽用 glm 免费用 glm-5.3-flash 实现 token 自由",
-    "link": "https://upxuu.com/posts/free-glm/",
-    "date": "Sun, 04 Oct 2026 08:25:19 GMT"
   },
   {
     "blog": "Hyde's blog",
