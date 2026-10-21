@@ -8,6 +8,14 @@
     "date": "Tue, 06 Oct 2026 13:36:35 GMT"
   },
   {
+    "blog": "Hyde's blog",
+    "blogUrl": "https://seasir.top",
+    "avatar": "",
+    "title": "NodeWarden",
+    "link": "https://seasir.top/posts/nodewarden/",
+    "date": "Thu, 17 Sep 2026 00:00:00 GMT"
+  },
+  {
     "blog": "inaline的小站",
     "blogUrl": "https://inaline.net",
     "avatar": "",
@@ -48,12 +56,36 @@
     "date": "Sun, 11 Oct 2026 09:40:00 GMT"
   },
   {
+    "blog": "Hyde's blog",
+    "blogUrl": "https://seasir.top",
+    "avatar": "",
+    "title": "PNPM 11 适配 CNB 构建安全兼容方案",
+    "link": "https://seasir.top/posts/pnpm-workspace/",
+    "date": "Sun, 02 Aug 2026 00:00:00 GMT"
+  },
+  {
     "blog": "孟轩科技’s blog",
     "blogUrl": "https://blog.mxw2024.top",
     "avatar": "",
     "title": "网站更换域名公告",
     "link": "https://blog.mxw2024.top/posts/website-domain-change/",
     "date": "Sat, 21 Mar 2026 00:00:00 GMT"
+  },
+  {
+    "blog": "Hyde's blog",
+    "blogUrl": "https://seasir.top",
+    "avatar": "",
+    "title": "待办",
+    "link": "https://seasir.top/posts/todo/",
+    "date": "Sat, 09 May 2026 00:00:00 GMT"
+  },
+  {
+    "blog": "Hyde's blog",
+    "blogUrl": "https://seasir.top",
+    "avatar": "",
+    "title": "AI 摘要实现",
+    "link": "https://seasir.top/posts/ai-summary-tutorial/",
+    "date": "Mon, 27 Jul 2026 00:00:00 GMT"
   },
   {
     "blog": "inaline的小站",
