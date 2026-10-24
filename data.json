@@ -1,13 +1,5 @@
 [
   {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
-    "title": "「说说」简单优化了下博客，lighthouse终于绿了",
-    "link": "https://upxuu.com/talk/2026-10-06-简单优化了下博客lighthou-e终于绿了/",
-    "date": "Tue, 06 Oct 2026 13:36:35 GMT"
-  },
-  {
     "blog": "Hyde's blog",
     "blogUrl": "https://seasir.top",
     "avatar": "",
@@ -48,20 +40,28 @@
     "date": "Sun, 15 Feb 2026 00:00:00 GMT"
   },
   {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
-    "avatar": "",
-    "title": "WorkBuddy AI 国际版 API 逆向全解析：把免费的 DeepSeek V4.1 Flash 变成自己的 OpenAI 接口",
-    "link": "https://upxuu.com/posts/workbuddy-api-reverse/",
-    "date": "Sun, 11 Oct 2026 09:40:00 GMT"
-  },
-  {
     "blog": "Hyde's blog",
     "blogUrl": "https://seasir.top",
     "avatar": "",
     "title": "PNPM 11 适配 CNB 构建安全兼容方案",
     "link": "https://seasir.top/posts/pnpm-workspace/",
     "date": "Sun, 02 Aug 2026 00:00:00 GMT"
+  },
+  {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "什么，都2026年了 你还在为ai模型付费？！盘点我用的免费api渠道",
+    "link": "https://upxuu.com/posts/all-in-free/",
+    "date": "Sat, 24 Oct 2026 09:26:27 GMT"
+  },
+  {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "把 PCL 关掉的下载功能接回来：fixpcl 的逆向分析与 IL 手术实录",
+    "link": "https://upxuu.com/posts/fixpcl-pcl-299-download-restore/",
+    "date": "Sat, 24 Oct 2026 07:30:00 GMT"
   },
   {
     "blog": "孟轩科技’s blog",
