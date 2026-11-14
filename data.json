@@ -3,7 +3,7 @@
     "blog": "Hyde's blog",
     "blogUrl": "https://seasir.top",
     "avatar": "",
-    "title": "NodeWarden",
+    "title": "NodeWarden密码管理器",
     "link": "https://seasir.top/posts/nodewarden/",
     "date": "Thu, 17 Sep 2026 00:00:00 GMT"
   },
@@ -14,6 +14,22 @@
     "title": "Document Builder 文档生成器 alpha 版本功能演示",
     "link": "https://inaline.net/archives/52/",
     "date": "Thu, 02 Jul 2026 12:04:00 +0800"
+  },
+  {
+    "blog": "孟轩科技’s blog",
+    "blogUrl": "https://blog.mxw2024.top",
+    "avatar": "",
+    "title": "孟轩网公益云盘",
+    "link": "https://blog.mxw2024.top/posts/public-welfare_pan/",
+    "date": "Sun, 15 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "blog": "孟轩科技’s blog",
+    "blogUrl": "https://blog.mxw2024.top",
+    "avatar": "",
+    "title": "TV应用管家",
+    "link": "https://blog.mxw2024.top/posts/tv-app-manager/",
+    "date": "Sun, 15 Feb 2026 00:00:00 GMT"
   },
   {
     "blog": "Upxuu",
@@ -48,20 +64,36 @@
     "date": "Sat, 24 Oct 2026 07:30:00 GMT"
   },
   {
+    "blog": "孟轩科技’s blog",
+    "blogUrl": "https://blog.mxw2024.top",
+    "avatar": "",
+    "title": "网站更换域名公告",
+    "link": "https://blog.mxw2024.top/posts/website-domain-change/",
+    "date": "Sat, 21 Mar 2026 00:00:00 GMT"
+  },
+  {
+    "blog": "Upxuu",
+    "blogUrl": "https://upxuu.com",
+    "avatar": "",
+    "title": "父亲的新药批了——芪秦通痹片",
+    "link": "https://upxuu.com/posts/20261114/",
+    "date": "Sat, 14 Nov 2026 11:43:56 GMT"
+  },
+  {
+    "blog": "Hyde's blog",
+    "blogUrl": "https://seasir.top",
+    "avatar": "",
+    "title": "ChronoFrame 详细部署教程",
+    "link": "https://seasir.top/posts/ChronoFrame/",
+    "date": "Sat, 14 Nov 2026 00:00:00 GMT"
+  },
+  {
     "blog": "Hyde's blog",
     "blogUrl": "https://seasir.top",
     "avatar": "",
     "title": "待办",
     "link": "https://seasir.top/posts/todo/",
     "date": "Sat, 09 May 2026 00:00:00 GMT"
-  },
-  {
-    "blog": "Hyde's blog",
-    "blogUrl": "https://seasir.top",
-    "avatar": "",
-    "title": "AI 摘要实现",
-    "link": "https://seasir.top/posts/ai-summary-tutorial/",
-    "date": "Mon, 27 Jul 2026 00:00:00 GMT"
   },
   {
     "blog": "inaline的小站",
@@ -72,12 +104,12 @@
     "date": "Mon, 24 Aug 2026 03:22:00 +0800"
   },
   {
-    "blog": "Upxuu",
-    "blogUrl": "https://upxuu.com",
+    "blog": "孟轩科技’s blog",
+    "blogUrl": "https://blog.mxw2024.top",
     "avatar": "",
-    "title": "记录一次被创飞的经历",
-    "link": "https://upxuu.com/posts/20261019/",
-    "date": "Mon, 19 Oct 2026 12:51:55 GMT"
+    "title": "友链监控报告",
+    "link": "https://blog.mxw2024.top/posts/friend-link-monitor/",
+    "date": "Mon, 23 Mar 2026 00:00:00 GMT"
   },
   {
     "blog": "inaline的小站",
